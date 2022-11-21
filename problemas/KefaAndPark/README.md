@@ -1,4 +1,10 @@
-# 1. Problem - C. Kefa and Park
+# 1. Submissão
+
+- [Link da submissão](https://codeforces.com/contest/580/submission/181839014)
+
+![Submissão](./img/submissao.jpg)
+
+# 2. Problem - C. Kefa and Park
 
 - [Link do problema](https://codeforces.com/contest/580/problem/C)
 
@@ -10,7 +16,7 @@ The leaf vertices of the park contain restaurants. Kefa wants to choose a restau
 
 Your task is to help Kefa count the number of restaurants where he can go.
 
-## 1.1. Input
+## 2.1. Input
 
 The first line contains two integers, n and m (2 ≤ n ≤ 105, 1 ≤ m ≤ n) — the number of vertices of the tree and the maximum number of consecutive vertices with cats that is still ok for Kefa.
 
@@ -20,11 +26,11 @@ Next n - 1 lines contains the edges of the tree in the format "xi yi" (witho
 
 It is guaranteed that the given set of edges specifies a tree.
 
-## 1.2. Output
+## 2.2. Output
 
 A single integer — the number of distinct leaves of a tree the path to which from Kefa's home contains at most m consecutive vertices with cats.
 
-## 1.3. Examples
+## 2.3. Examples
 
 ### Input
 
@@ -57,7 +63,7 @@ A single integer — the number of distinct leaves of a tree the path to which f
 2
 ```
 
-## 1.4. Note
+## 2.4. Note
 
 Let us remind you that a tree is a connected graph on n vertices and n - 1 edge. A rooted tree is a tree with a special vertex called root. In a rooted tree among any two vertices connected by an edge, one vertex is a parent (the one closer to the root), and the other one is a child. A vertex is called a leaf, if it has no children.
 
@@ -73,15 +79,15 @@ Note to the second sample test:
 
 The restaurants are located at vertices 4, 5, 6, 7. Kefa can't go to restaurants 6, 7.
 
-# 2. Instalação 
+# 3. Instalação 
 
 - **Linguagem**: C++<br>
 
-## 2.1. Requisito
+## 3.1. Requisito
 
 - Compilador C++
 
-## 2.2. Uso 
+## 3.2. Uso 
 
 - Compile o código da solução do problema com o comando abaixo:
   
@@ -94,8 +100,3 @@ The restaurants are located at vertices 4, 5, 6, 7. Kefa can't go to restaurants
   ```
   $ ./prog
   ```
-# 3. Submissão
-
-- [Link da submissão](https://codeforces.com/contest/580/submission/181839014)
-
-![Submissão](./img/submissao.jpg)
