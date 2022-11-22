@@ -29,7 +29,7 @@ Esse repositório possui a solução dos problemas realizados do juiz online [Co
 
 ## Problemas
 
-- ![Kefa and Park](https://codeforces.com/contest/580/problem/C)
-- ![Bakery](https://codeforces.com/problemset/problem/707/B)
-- ![Network Topology](https://codeforces.com/problemset/problem/292/B)
-- ![The Tag Game](https://codeforces.com/problemset/problem/813/C)
+- [Kefa and Park](https://codeforces.com/contest/580/problem/C)
+- [Bakery](https://codeforces.com/problemset/problem/707/B)
+- [Network Topology](https://codeforces.com/problemset/problem/292/B)
+- [The Tag Game](https://codeforces.com/problemset/problem/813/C)
