@@ -10,22 +10,26 @@
 
 ## Sobre
 
-Descreva os objetivos do seu projeto e como ele funciona. 
-
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+Esse repositório possui a solução dos problemas realizados do juiz online [CodeForces](https://codeforces.com/).
 
 ## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+**Linguagem**: C++<br>
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+- Compile o código da solução do problema com o comando abaixo:
+  
+  ```
+  $ g++ solution.cpp -o prog
+  ```
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+- Por fim, execute a solução e teste os casos presentes na :
 
+  ```
+  $ ./prog
+  ```
 
+## Problemas
 
-
+- ![Kefa and Park](https://codeforces.com/contest/580/problem/C)
+- ![Bakery](https://codeforces.com/problemset/problem/707/B)
+- ![Network Topology](https://codeforces.com/problemset/problem/292/B)
+- ![The Tag Game](https://codeforces.com/problemset/problem/813/C)
