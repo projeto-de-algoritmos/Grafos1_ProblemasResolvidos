@@ -12,6 +12,23 @@
 
 Esse repositório possui a solução dos problemas realizados do juiz online [CodeForces](https://codeforces.com/).
 
+## Screenshot
+
+- ### Kefa and Park
+
+![Screenshot 1](./problemas/KefaAndPark/img/Screenshot%20from%202022-11-27%2016-14-14.png)
+
+- ### Bakery
+
+![Screenshot 1](./problemas/Bakery/img/Screenshot%20from%202022-11-27%2016-15-08.png)
+
+- ### Network Topology
+
+![Screenshot 1](./problemas/NetworkTopology/img/Screenshot%20from%202022-11-27%2016-15-45.png)
+- ### The Tag Game
+
+![Screenshot 1](./problemas/TheTagGame/img/Screenshot%20from%202022-11-27%2016-16-20.png)
+
 ## Instalação 
 **Linguagem**: C++<br>
 
